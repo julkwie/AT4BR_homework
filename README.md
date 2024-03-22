@@ -14,3 +14,5 @@ These are the most important commands I learned about Git:
 - git branch *branch name* - to create a new branch
     - git  checkout *branch name* - to switch the branch
 - git merge *branch name* - to merge changes from one branch into another 
+
+and much much more...
